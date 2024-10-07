@@ -1,3 +1,3 @@
 # Try-Github
 Learning Github
-My Name - OMKAR
+My Name - OMKAR PADHY
